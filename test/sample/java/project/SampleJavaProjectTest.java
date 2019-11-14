@@ -15,7 +15,7 @@ public class SampleJavaProjectTest {
      */
     private SampleJavaProject sjp;
 
-    /*****
+    /******
      * JUnit set up method.
      */
     @Before
@@ -23,7 +23,7 @@ public class SampleJavaProjectTest {
         sjp = new SampleJavaProject();
     }
 
-    /*****
+    /******
      * Tests the generated setter and getter methods.
      */
     @Test
